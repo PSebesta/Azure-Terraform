@@ -1,3 +1,5 @@
+![](images/terraform_cover_image.png)
+
 # Azure-Terraform
 To build IAC for use with azure
 
